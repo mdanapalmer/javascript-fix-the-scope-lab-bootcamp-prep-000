@@ -4,12 +4,8 @@ function myAnimal() {
   return animal;
 }
 
-var animal = 'cat'
-
 function yourAnimal() {
-  console.log(`My ${animal}.`);
-  return function yourAnimal() {
-    
+     
   }
 }
 
