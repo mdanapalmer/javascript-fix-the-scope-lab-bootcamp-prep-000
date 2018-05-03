@@ -8,7 +8,7 @@ var animal = 'cat'
 
 function yourAnimal() {
   console.log(`My ${animal}.`);
-  return animal;
+  return function yourAnimal();
 }
 
 function add2(n) {
