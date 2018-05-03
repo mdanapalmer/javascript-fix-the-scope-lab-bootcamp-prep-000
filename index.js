@@ -7,7 +7,7 @@ function myAnimal() {
 var animal = 'cat'
 
 function yourAnimal() {
-  console.log("I think I'll ")
+  console.log("My ${animal}.");
   return animal;
 }
 
